@@ -20,71 +20,32 @@
 
 <br>
 
+## 개발 인원
+*1 인*
+
+<br>
+
 ## 개발 환경
 ### Environment
 
 <div>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
 </div>
 
 ### Development
 
 <div>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-F80000?style=flat&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSP-F80000?style=flat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MyBatis-362929?style=flat"/>
-</div>
-
-### API
-
-<div>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </div>
 
 <br>
 
 ## 주요 기능
-**팔로우 간의 게시물 공유**
-- 사용자는 글을 등록, 삭제, 수정할 수 있습니다.
-- 사용자는 글 공개 여부를 설정할 수 있습니다.
-- 메인 화면에서 글은 팔로우를 우선적으로 보여줍니다. (팔로우가 아닌 사람의 글은 모든 팔로우의 글을 보여준 후에 보여집니다.)
-- 리포스트를 통해 다른 게시물을 인용할 수 있습니다.
-
-<br>
-  
-**팔로우 간의 채팅**
-- 사용자는 채팅을 통해 팔로우 간의 소통을 할 수 있습니다.
-- 팔로우가 아닌 사람과는 채팅 할 수 없습니다.
-- 사용자는 최대 프로필 3개를 사용하여 독립적으로 채팅 할 수 있습니다.
-
-<br>
-
-**관리자 페이지**
-- 관리자는 사용자의 정보를 확인할 수 있습니다.
-- 관리자는 신고 당한 게시물 등의 정보를 확인할 수 있습니다.
-- 관리자는 사용자의 계정을 정지 처리할 수 있습니다.
-
-<br>
-
-## ERD
-<img src="https://github.com/user-attachments/assets/a3d905be-60b2-459f-85c4-c816bd3c8983">
-<br>
-
-## 기대 효과
-- 폐쇄적인 SNS는 특정 관심사나 그룹에 집중된 사용자들을 대상으로 광고를 효과적으로 타겟할 수 있는 장점이 있습니다. 이는 ${\textsf{\color{orange}광고주에게 더 높은 광고 효율성을 제공}}$ 할 수 있습니다.
-- ${\textsf{\color{orange}유료 멤버십 모델을 도입}}$하여 프리미엄 컨텐츠에 대한 접근을 제한할 수 있고, 이는 사용자들에게 더 가치 있는 경험을 제공하고 수익을 창출할 수 있습니다.
+**테트리스 게임**
+- 모양은 랜덤으로 하나가 나오게 됩니다.
+- 숫자를 지정하여 모양을 내릴 위치를 선택할 수 있습니다.
+- 한 줄이 채워진는 경우 윗 줄이 아래로 내려고 채워진 줄은 깨져 점수가 추가 됩니다.
+- 일정 점수 도달 시 level이 증가하며 level에 따라 기준 점수가 높아집니다.
 
 <br>
 
