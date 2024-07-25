@@ -53,7 +53,7 @@
 ## 주요 기능 소개
 <strong>모든 구현은 Scanner 및 랜덤 등 Java에서 제공하는 클래스와 메서드, for문 등의 기본문법을 사용하여 구현</strong>
 ### 도형 내려오기
-<img src="https://github.com/user-attachments/assets/caf6a05b-db02-43ca-8d3d-60b5169d34ea" width=70%>
+<img src="https://github.com/user-attachments/assets/15a850ad-f7fb-470e-b480-a8b6c0b21a9d">
 
 
 ### 한 줄 clear
