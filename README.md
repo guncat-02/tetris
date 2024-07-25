@@ -4,7 +4,8 @@
 
 </div>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/1e25f070-d64a-4c6d-acdf-4b7dd69f14aa">
+<img src="https://github.com/user-attachments/assets/c49f61c5-0ecf-42de-94a1-7759ce260af7">
+
 </div>
 <br>
 
@@ -50,17 +51,15 @@
 <br>
 
 ## 주요 기능 소개
-### 실시간 채팅 기능
+<strong>모든 구현은 Scanner 및 랜덤 등 Java에서 제공하는 클래스와 메서드, for문 등의 기본문법을 사용하여 구현</strong>
+### 도형 내려오기
 <img src="https://github.com/user-attachments/assets/68d20bf6-a882-4e87-b523-90550ba11142" width=70%>
 
-<strong>web socket 및 ajax를 이용해 비동기 방식으로 구현</strong>
 
-### 글 자세히 보기 및 댓글, 좋아요 기능
+### 한 줄 clear
 <img src="https://github.com/user-attachments/assets/4c5a56b6-19b9-47fb-aa46-bdb180fe62ea" width=70%>
 
-<strong>ajax를 이용해 비동기 방식으로 좋아요 및 댓글 구현</strong>
 
-### 관리자 화면
+### level up
 <img src="https://github.com/user-attachments/assets/194eefc1-efff-4d16-a649-c27b41da1d5a" width=70%>
 
-<strong>ajax를 이용해 비동기 방식으로 페이징 기능 구현</strong>
