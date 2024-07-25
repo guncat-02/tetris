@@ -57,9 +57,5 @@
 
 
 ### 한 줄 clear
-<img src="https://github.com/user-attachments/assets/4c5a56b6-19b9-47fb-aa46-bdb180fe62ea" width=70%>
-
-
-### level up
-<img src="https://github.com/user-attachments/assets/194eefc1-efff-4d16-a649-c27b41da1d5a" width=70%>
+<img src="https://github.com/user-attachments/assets/d6b97c8c-b7cc-418f-a89e-145b1cf79889">
 
